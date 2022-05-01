@@ -3,17 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hseyinsade" alt="hseyinsade" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hseyinsade" target="blank"><img src="https://img.shields.io/twitter/follow/hseyinsade?logo=twitter&style=for-the-badge" alt="hseyinsade" /></a> </p>
-
 - 🔭 I’m currently working on **LCW Market Place**
 
-- 🌱 I’m currently learning **React, DevOps**
-
-- 💬 Ask me about **React, TypeScript**
-
-- 📫 How to reach me **huseyinsade2@gmail.com**
-
-- ⚡ Fun fact **I think, I am funny**
+- 📫 How to reach me **info@huseyinsade.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
