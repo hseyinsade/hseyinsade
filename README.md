@@ -18,6 +18,5 @@
 
 - 📫 How to reach me **info@huseyinsade.dev**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hseyinsade&show_icons=true&locale=en" alt="hseyinsade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hseyinsade&" alt="hseyinsade" /></p>
