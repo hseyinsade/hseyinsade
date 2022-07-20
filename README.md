@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/huseyinsade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyinsade" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/huseyinsade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="huseyinsade" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hseyinsade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hseyinsade" height="30" width="40" /></a>
-<a href="https://instagram.com/hseyinsade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hseyinsade" height="30" width="40" /></a>
 <a href="https://medium.com/@huseyinsade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@huseyinsade" height="30" width="40" /></a>
 </p>
 
